@@ -1,2 +1,2 @@
-# GB_Prac_Reoi
+# GB_Prac_Repo
 Practise Prash org
